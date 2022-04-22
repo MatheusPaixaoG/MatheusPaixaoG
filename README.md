@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on any project I can
 - 🤔 I’m looking for help with Python, Data science
 - 📫 How to reach me: mpgs@cin.ufpe.br
-- ⚡ Fun fact: I love the Star Wars universe
+- ⚡ Fun fact: I love the Star Wars universe and to play video games
 
 <div>
   <a href="https://github.com/MatheusPaixaoG">
