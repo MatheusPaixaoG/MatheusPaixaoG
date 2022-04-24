@@ -1,6 +1,6 @@
 ## Hello there, I'm Matheus! 👋
 
-- 🌱 I’m currently learning Angular, Bootstrap, Typescript and Game Development
+- 🌱 I’m currently learning Angular, Bootstrap, Typescript and Game Development on Unity
 - 👯 I’m looking to collaborate on any project I can
 - 🤔 I’m looking for help with Python, Data science
 - 📫 How to reach me: mpgs@cin.ufpe.br
